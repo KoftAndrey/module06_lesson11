@@ -1,0 +1,14 @@
+{
+  "name": "module06_lesson11_lvl1",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "browse": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "inputmask": "^5.0.8",
+    "parcel": "^2.9.3",
+    "redom": "^3.29.1"
+  }
+}
